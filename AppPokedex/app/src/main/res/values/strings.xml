@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppPokedex</string>
+    <string name="your_name">Qual o seu nome?</string>
+    <string name="lets_go">Vamos!</string>
+    <string name="welcome">Seja Bem vindo(a),</string>
+    <string name="start">Iniciando sua Pokedex em 3...</string>
+    <string name="pokemons">Pokemons</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
