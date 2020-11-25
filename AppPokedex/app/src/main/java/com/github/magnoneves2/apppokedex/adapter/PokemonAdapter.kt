@@ -1,4 +1,4 @@
-package com.github.magnoneves2.apppokedex.ui
+package com.github.magnoneves2.apppokedex.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
